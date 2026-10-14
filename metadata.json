@@ -1,0 +1,6 @@
+{
+  "name": "Prokah",
+  "description": "Mobile banking app featuring secure authentication, real-time transaction history, intuitive fund transfers, and iconic MFS service containers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
